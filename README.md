@@ -57,11 +57,13 @@ I specialize in building **production-grade platform engineering solutions**, mo
 
 ---
 
+
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasubramanian95\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasubramanian95\&layout=compact\&theme=transparent)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sivasubramanian95&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasubramanian95&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
