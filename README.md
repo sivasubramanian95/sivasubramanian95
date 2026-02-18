@@ -22,39 +22,38 @@ I specialize in building **production-grade platform engineering solutions**, mo
 
 ### ☁️ Cloud & Platform Engineering
 
-* AWS, Azure
-* Kubernetes, Container Orchestration
-* Cloud-Native Architecture
-* Distributed Systems Design
-* Platform Engineering at Scale
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ed?logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7b42bc?logo=terraform)
+
 
 ### 🔄 DevOps & Automation
 
-* CI/CD System Design
-* GitHub Actions, Jenkins
-* Infrastructure as Code
-* Docker & Containerization
-* Linux & Bash Automation
-* Observability & Reliability Engineering
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088ff?logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-d24939?logo=jenkins)
+![Linux](https://img.shields.io/badge/Linux-Platform-black?logo=linux)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4eaa25?logo=gnu-bash)
+
 
 ### 🤖 AI & Intelligent Platforms
 
-* LLM Integration into Developer Workflows
-* AI Platform Infrastructure
-* Retrieval-Augmented Generation (RAG)
-* Model orchestration concepts
-* AI-enhanced CI/CD and developer productivity
-* Python for AI automation
+![Python](https://img.shields.io/badge/Python-Programming-3776ab?logo=python)
+![LLM](https://img.shields.io/badge/LLM-Integration-purple)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-purple)
+![AIOps](https://img.shields.io/badge/AIOps-Intelligent_Automation-purple)
+
 
 ---
 
 ## 🚀 What I’m Currently Focused On
 
-* 🔹 AI-powered developer platforms
-* 🔹 AIOps and intelligent automation
-* 🔹 Scalable Kubernetes platform patterns
-* 🔹 Production-ready LLM integration
-* 🔹 Platform reliability and developer experience
+## 🔨 Currently Building
+
+- 🐇 Flowrabbit Studio — AI-assisted workflow and automation platform  
+- 🤖 AI-powered DevOps automation experiments 
+- ☸️ Scalable Kubernetes platform patterns  
 
 ---
 
