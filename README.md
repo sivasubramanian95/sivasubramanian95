@@ -82,7 +82,6 @@ I’m interested in collaborating on:
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/siva-subramanian-vaidyanathan/*
-* 🌍 Portfolio: *(coming soon)*
 
 ---
 
